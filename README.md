@@ -1,1 +1,2 @@
 # Language-Classifier-using-Neural-Networks
+The objective of this project was to identify the language of given input text as English, Dutch or Italian. A multilayer perceptron with standard feedforward neural network was constructed and trained for this languages. The supervised learning technique of Back-propagation was implemented and for feature extraction purpose the n-gram technique of determining the characteristic was used. This project was implemented in Python.
